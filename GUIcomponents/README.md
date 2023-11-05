@@ -151,10 +151,7 @@ Registeration Number :212221220057
 ![ex2-1](https://github.com/KGSatheeshKumar/Mobile-Application-Development/assets/128453421/76da89cb-463d-45b8-a258-09851129ede7)
 ![ex2-2](https://github.com/KGSatheeshKumar/Mobile-Application-Development/assets/128453421/1007a554-854c-475c-b397-0ece29af7b47)
 ![ex2-3](https://github.com/KGSatheeshKumar/Mobile-Application-Development/assets/128453421/68745ab3-1967-4dcc-bbfb-dde7702a19e4)
-![s1](https://github.com/KGSatheeshKumar/Mobile-Application-Development/assets/128453421/9d097de9-d24b-4e6d-8543-7d06f8f50beb)
-![s2](https://github.com/KGSatheeshKumar/Mobile-Application-Development/assets/128453421/d0077d3d-cc4d-4dae-b4b6-d6bb0018707d)
-![s3](https://github.com/KGSatheeshKumar/Mobile-Application-Development/assets/128453421/8b8cb3bb-cfeb-4ed3-bbe8-48b8b1209b3d)
-![s4](https://github.com/KGSatheeshKumar/Mobile-Application-Development/assets/128453421/30ee90b9-4611-4064-bcd4-65f8b807bb64)
+
 
 
 ## RESULT
